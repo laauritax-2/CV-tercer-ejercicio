@@ -1,0 +1,69 @@
+/* ESTILOS GENERALES */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+}
+
+/* CONTENIDO PRINCIPAL */
+main {
+    background-color: white;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+/* TÍTULOS */
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+h3 {
+    color: #444;
+}
+
+/* MENÚ DE NAVEGACIÓN */
+nav {
+    text-align: center;
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: #bbb;
+}
+
+/* ARTÍCULOS DE PROYECTOS */
+article {
+    background-color: #f2f2f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 6px;
+}
+
+/* PÁRRAFOS */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* PIE DE PÁGINA */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
